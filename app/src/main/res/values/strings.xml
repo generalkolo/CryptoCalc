@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CryptoCalc</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Enter Cryptocurrency Amount e.g 1.23</string>
+    <string name="err_invalid_amount">Please enter a valid amount</string>
+    <string name="sbd_approximately">Sbd(s) is approximately </string>
+    <string name="ngn"> NGN</string>
+    <string name="steem_approximately">Steem(s) is approximately </string>
+    <string name="bitcoin_approximately">Bitcoin(s) is approximately </string>
+    <string name="sbd">SBD</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="steem">STEEM</string>
+    <string name="one_bitcoin_is_equal">1 Bitcoin =</string>
+    <string name="one_sbd_is_equal">1 SBD =</string>
+    <string name="one_steem_is_equal">1 STEEM =</string>
+    <string name="REQUEST">REQUEST</string>
+    <string name="GETCRYPTOPRICE">getCryptoPrice</string>
+    <string name="NGN">NGN</string>
+    <string name="supported_coins">Supported Coins</string>
+    <string name="_1_btc_3_318_535_ngn">1 BTC = 3,318,535 NGN</string>
+    <string name="_1_sbd_800_ngn">1 SBD = 800 NGN</string>
+    <string name="_1_steem_950_ngn">1 STEEM = 950 NGN</string>
+    <string name="top_five_coins">Top Five Coins</string>
+    <string name="most_accurate_bitcoin_alt_coin_to_fiat_calculator">Bitcoin/Alt coin to Fiat Calculator based on current exchange rate</string>
+    <string name="GETTOPFIVE">getTopFive</string>
+    <string name="change_in_one_hour">Change in One Hour :</string>
+    <string name="change_in_twenty_four_hour">Change in Twenty Four Hour :</string>
+    <string name="change_in_seven_days">Change in Seven Days :</string>
+</resources>

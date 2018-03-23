@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_marginTop="0dp"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    tools:context="com.semanientreprise.steemitcalc.Activities.splash"
+    >
+    <ImageView
+        android:id="@+id/splash_img"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerInParent="true"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/small_size"
+        android:text="@string/most_accurate_bitcoin_alt_coin_to_fiat_calculator"
+        android:gravity="center_horizontal"
+        android:textColor="@color/red"
+        />
+
+</RelativeLayout>

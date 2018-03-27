@@ -6,11 +6,11 @@ This is the official repository for my CryptoCalc android application
  ### Coins information
 	1. Click on the coin you would like to know it's details.
 
-		![click on specific coin](https://github.com/generalkolo/CryptoCalc/blob/master/images/Screenshot_20180323-133158.png)
+	![click on specific coin](https://github.com/generalkolo/CryptoCalc/blob/master/images/Screenshot_20180323-133158.png)
 
 	2. On knowing the details, click the drop down arrow to dismiss the coin details.
 
-		![click on drop down button](https://github.com/generalkolo/CryptoCalc/blob/master/images/Screenshot_20180323-133205.png)
+	![click on drop down button](https://github.com/generalkolo/CryptoCalc/blob/master/images/Screenshot_20180323-133205.png)
 
 - ### Local currency Estimation
 	1. Click from the list of the drop down coins.
